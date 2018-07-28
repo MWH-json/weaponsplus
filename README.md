@@ -11,8 +11,6 @@ Mini World Plugin Pack that adds new weapons.
 
 > Latest Version: [![Github Releases](https://img.shields.io/github/downloads/MWH-json/weaponsplus/latest/total.svg)](https://github.com/MWH-json/weaponsplus/releases)
 
-> Feik's Remix: [![Github Releases](https://img.shields.io/github/downloads/zfeikg/weaponsplus/latest/total.svg)](https://github.com/zfeikg/weaponsplus/releases)
-
 ## Details
 
 > Pack made by [@MrMWBA](https://github.com/MrMWBA) licensed under the MIT License
