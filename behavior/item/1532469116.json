@@ -1,0 +1,27 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532469116",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"bullet_id": 15003,
+		"continuous_fire": 1,
+		"copyid": 10104,
+		"describe": "A submachine gun with a big fire rate.",
+		"fire_interval": 10,
+		"gun_attack": 15,
+		"gun_speed_add": 1,
+		"gun_type": 10106,
+		"icon": "*15000",
+		"id": 4097,
+		"magazines": 70,
+		"model": "*15000",
+		"name": "P90",
+		"need_bullet": 1,
+		"weight": 500 
+	} 
+} 

@@ -1,0 +1,29 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532466648",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 10103,
+		"describe": "A iron arrow for the compound bow",
+		"gravity": 1,
+		"icon": "*12051",
+		"id": 4098,
+		"model": "*12051",
+		"name": "Iron Arrow",
+		"pickable": true,
+		"projectile_attack": 15,
+		"speed_decay": 0.4,
+		"speed_init": 1050,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

@@ -1,0 +1,27 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532473528",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"bullet_id": 12285,
+		"continuous_fire": 1,
+		"copyid": 10104,
+		"describe": "Blow Up Enemies!",
+		"fire_interval": 500,
+		"gun_attack": 50,
+		"gun_speed_add": 0,
+		"gun_type": 10105,
+		"icon": "*12284",
+		"id": 4105,
+		"magazines": 1,
+		"model": "*12284",
+		"name": "RPG",
+		"need_bullet": 1,
+		"weight": 10500 
+	} 
+} 

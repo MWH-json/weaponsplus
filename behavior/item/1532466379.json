@@ -1,0 +1,27 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532466379",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"accumulate_time": 0.6,
+		"attack": 54,
+		"attack_consume": 1,
+		"consume_count": 1,
+		"consume_itemid": 12051,
+		"copyid": 10102,
+		"describe": "A better bow",
+		"icon": "*12056",
+		"id": 4097,
+		"model": "*12056",
+		"name": "Compound Bow",
+		"speed_add": 0,
+		"tool_duration": 850,
+		"tool_repare_amount1": 60,
+		"tool_repareid1": 0 
+	} 
+} 

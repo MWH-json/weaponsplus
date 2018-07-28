@@ -1,0 +1,27 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532472044",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"bullet_id": 15003,
+		"continuous_fire": 1,
+		"copyid": 10104,
+		"describe": "Boom Headshoot! My fav heavy pistol",
+		"fire_interval": 10,
+		"gun_attack": 70,
+		"gun_speed_add": 0,
+		"gun_type": 10105,
+		"icon": "*15001",
+		"id": 4100,
+		"magazines": 1,
+		"model": "*15001",
+		"name": "Desert Eagle",
+		"need_bullet": 1,
+		"weight": 9000 
+	} 
+} 

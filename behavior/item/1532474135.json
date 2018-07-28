@@ -1,0 +1,28 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532474135",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"accumulate_time": 0,
+		"attack": 66,
+		"attack_consume": 1,
+		"collect_consume": 1,
+		"copyid": 10101,
+		"describe": "*Swhoos Shwoos* hide, and when your enemy is near, attack from the back!",
+		"icon": "*11061",
+		"id": 4144,
+		"model": "*11061",
+		"name": "Tactical Knife",
+		"tool_duration": 700,
+		"tool_efficient": 0,
+		"tool_level": 1,
+		"tool_repare_amount1": 1,
+		"tool_repareid1": 0,
+		"tool_type": 6 
+	} 
+} 

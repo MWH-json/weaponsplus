@@ -1,0 +1,28 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532467850",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"bullet_id": 4137,
+		"bulletid_filename": "1532467735",
+		"continuous_fire": 2,
+		"copyid": 10104,
+		"describe": "Useful for killing zombies xD",
+		"fire_interval": 340,
+		"gun_attack": 30,
+		"gun_speed_add": 0.9,
+		"gun_type": 10105,
+		"icon": "*15006",
+		"id": 4138,
+		"magazines": 1,
+		"model": "*15006",
+		"name": "Shotgun",
+		"need_bullet": 1,
+		"weight": 4500 
+	} 
+} 

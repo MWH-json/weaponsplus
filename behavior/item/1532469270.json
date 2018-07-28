@@ -1,0 +1,27 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532469270",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"bullet_id": 15003,
+		"continuous_fire": 0,
+		"copyid": 10104,
+		"describe": "Semiautomatic sniper",
+		"fire_interval": 80,
+		"gun_attack": 80,
+		"gun_speed_add": 0,
+		"gun_type": 10107,
+		"icon": "*15004",
+		"id": 4098,
+		"magazines": 8,
+		"model": "*15004",
+		"name": "M14 DMR",
+		"need_bullet": 0,
+		"weight": 3500 
+	} 
+} 

@@ -1,0 +1,61 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.3000000715256,
+			"ChargeType": 2,
+			"Cooldown": 2,
+			"Costs": [
+				{
+					"CostTarget": 10101,
+					"CostType": 1,
+					"CostVal": 0 
+				} 
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 194 
+				},
+				{
+					"BlowUpPower": 40,
+					"RepelPower": 20 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 0,
+			"name": "feature_attack",
+			"priority": 0,
+			"templateid": 101 
+		} 
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532475451",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"accumulate_time": 0,
+		"attack": 100,
+		"attack_consume": 1,
+		"collect_consume": 1,
+		"copyid": 10101,
+		"describe": "Woah! Knock Back your enemies, and... with many damage!",
+		"icon": "*11062",
+		"id": 4108,
+		"model": "*11062",
+		"name": "Mace",
+		"tool_duration": 50,
+		"tool_efficient": 0,
+		"tool_level": 1,
+		"tool_repare_amount1": 10,
+		"tool_repareid1": 0,
+		"tool_type": 6 
+	} 
+} 

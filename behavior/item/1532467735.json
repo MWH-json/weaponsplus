@@ -1,0 +1,29 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532467735",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": true,
+		"can_throw": false,
+		"copyid": 10103,
+		"describe": "Shotgun ammo",
+		"gravity": 0,
+		"icon": "*12830",
+		"id": 4099,
+		"model": "*12830",
+		"name": "Pellet",
+		"pickable": false,
+		"projectile_attack": 45,
+		"speed_decay": 0.7,
+		"speed_init": 1970,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

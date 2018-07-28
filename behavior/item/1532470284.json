@@ -1,0 +1,51 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"BlowUpPower": 90,
+					"RepelPower": 90 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 600,
+			"RangeVal2": 600,
+			"RangeVal3": 300,
+			"TargetCamp": 0,
+			"name": "feature_attack_fly_throw",
+			"priority": 0,
+			"templateid": 202 
+		} 
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532470284",
+		"uuid": "ccc0aa74-ddcd-41a4-8d9a-7be263bee955",
+		"version": "1" 
+	},
+	"property": {
+		"accumulate_time": 0.7,
+		"accumulator_type": 0,
+		"attack_type": 1,
+		"break": false,
+		"can_throw": true,
+		"copyid": 10103,
+		"describe": "Kamoob!",
+		"gravity": 5,
+		"icon": "*12060",
+		"id": 4141,
+		"model": "*12060",
+		"name": "Grenade",
+		"pickable": false,
+		"projectile_attack": 6,
+		"speed_decay": 0.1,
+		"speed_init": 990,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 
