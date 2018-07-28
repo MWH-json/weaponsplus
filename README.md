@@ -1,6 +1,8 @@
 # Weapons+ made by [@MrMWBA](https://github.com/MrMWBA)
 Mini World Plugin Pack that adds new weapons.
 
+![Overview](https://media.discordapp.net/attachments/434118124015452160/472563201549271040/Screenshot_2018-07-28-02-37-12.png)
+
 ## Features
 * Brand new Crafteable Weapons
 * Compatible with Mini World 0.25 and latest version.
